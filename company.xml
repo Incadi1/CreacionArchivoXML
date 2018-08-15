@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <staff id="1">
+    <Nombre>w</Nombre>
+    <Direccion>ww</Direccion>
+    <Edad>9</Edad>
+    <Codigo>w</Codigo>
+    <Departamento>w</Departamento>
+  </staff>
+  <staff id="1">
+    <Nombre>a</Nombre>
+    <Direccion>a</Direccion>
+    <Edad>1</Edad>
+    <Codigo>qq</Codigo>
+    <Departamento>w</Departamento>
+  </staff>
+</company>
